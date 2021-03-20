@@ -24,10 +24,10 @@ public class Program {
             NodeList desc = doc.getDocumentElement().getElementsByTagName("desc");
             NodeList link = doc.getDocumentElement().getElementsByTagName("link");
             String lon, lat, text, attribute;
-            Element kml = newdoc.createElement("kml");
+            Element root = newdoc.createElement("kml");
             Element document = newdoc.createElement("Document");
-            newdoc.appendChild(kml);
-            kml.appendChild(document);
+            newdoc.appendChild(root);
+            root.appendChild(document);
             for (int i = 0; i < wpt.getLength();  i++) {
                 text = desc.item(i).getTextContent();
                 attribute = link.item(i).getAttributes().item(0).getTextContent();
