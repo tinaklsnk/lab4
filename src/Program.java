@@ -63,9 +63,7 @@ public class Program {
             transformer.transform(source, result);
             StreamResult consoleResult = new StreamResult(System.out);
             transformer.transform(source, consoleResult);
-        } catch (ParserConfigurationException | SAXException | IOException e ) {
-            e.printStackTrace();
-        } catch (TransformerException e) {
+        } catch (ParserConfigurationException | SAXException | IOException | TransformerException e ) {
             e.printStackTrace();
         }
     }
