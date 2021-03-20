@@ -50,7 +50,7 @@ public class Program {
                 placemark.appendChild(point);
                 point.appendChild(coord);
                 if (lat != null && lon != null) {
-                    Text textNode = newdoc.createTextNode(lat + "," + lon);
+                    Text textNode = newdoc.createTextNode(lon + "," + lat);
                     coord.appendChild(textNode);
                 }
             }

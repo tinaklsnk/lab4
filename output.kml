@@ -5,42 +5,42 @@
             <name> Криничка з водою при господарській споруді</name>
             <description>http://www.karpaty.com.ua/gps/data/1539.html</description>
             <Point>
-                <coordinates>47.766757,25.031869</coordinates>
+                <coordinates>25.031869,47.766757</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name> П. Cеменчук. Електрифікована колиба</name>
             <description>http://www.karpaty.com.ua/gps/data/1540.html</description>
             <Point>
-                <coordinates>47.75847,25.031347</coordinates>
+                <coordinates>25.031347,47.75847</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name> Звіринець у с. Cелятин. Ведмеді, олень, вовк, лисиця, заєць...</name>
             <description>http://www.karpaty.com.ua/gps/data/1541.html</description>
             <Point>
-                <coordinates>47.863905,25.19399</coordinates>
+                <coordinates>25.19399,47.863905</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name> Cтрумок, п. Оленів</name>
             <description>http://www.karpaty.com.ua/gps/data/1543.html</description>
             <Point>
-                <coordinates>47.746465,25.081777</coordinates>
+                <coordinates>25.081777,47.746465</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name> Місток через п. Оленів</name>
             <description>http://www.karpaty.com.ua/gps/data/1544.html</description>
             <Point>
-                <coordinates>47.743213,25.067227</coordinates>
+                <coordinates>25.067227,47.743213</coordinates>
             </Point>
         </Placemark>
         <Placemark>
             <name> Найбільший з куполів РЛC Памір</name>
             <description>http://www.karpaty.com.ua/gps/data/1545.html</description>
             <Point>
-                <coordinates>47.764625,25.033465</coordinates>
+                <coordinates>25.033465,47.764625</coordinates>
             </Point>
         </Placemark>
     </Document>
